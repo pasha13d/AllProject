@@ -1,0 +1,14 @@
+﻿body {
+    background-color:rgba(30, 28, 28, 0.27);
+}
+
+div{
+    padding:5px;
+    margin:5px;
+    border:dashed thin silver;
+}
+
+.menu
+{
+    text-align:right;
+}

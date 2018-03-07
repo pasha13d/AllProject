@@ -1,0 +1,283 @@
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
+G:\BdJobs_Training_Practise\December_2017\24_12_2017_Practise_My_Work\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmplyeeEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmplyeeEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductEdit.resources
+G:\BdJobs_Training_Practise\December_2017\31_12_2017_Practise_My_Work - Copy\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmplyeeEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+D:\BDJobs_Home_Practice\December_2017\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.MyControls.ucDateSearch.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmplyeeEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.MyControls.ucDateSearch.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+D:\BDJobs_Home_Practice\December_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmplyeeEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.MyControls.ucDateSearch.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+D:\BDJobs_Home_Practice\January_2017\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.pdb
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Form1.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrand.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmBrandNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategory.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCategoryNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCity.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmCityNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployee.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmployeeNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmEmplyeeEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedger.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmLedgerNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProduct.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImage.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductImageNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPrice.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmProductPriceNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchase.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmPurchaseNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransaction.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmTransactionNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.frmUnitNew.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.MyControls.ucDateSearch.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmDisplay.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Presentation.Templates.frmNewEdit.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.Properties.Resources.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.test.resources
+C:\Users\Pasha\Desktop\06_01_2018\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.csproj.GenerateResource.Cache
+G:\BdJobs_Training_Practise\GIT_UP\WinForm\BDJBatch18.POS\BDJBatch18.POS\bin\Debug\BDJBatch18.POS.exe.config
+G:\BdJobs_Training_Practise\GIT_UP\WinForm\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.exe
+G:\BdJobs_Training_Practise\GIT_UP\WinForm\BDJBatch18.POS\BDJBatch18.POS\obj\Debug\BDJBatch18.POS.pdb

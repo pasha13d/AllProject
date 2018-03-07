@@ -1,0 +1,193 @@
+﻿@model BDJ.UCommerce.Models.product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+<script type="text/javascript">
+
+    function changeImage(id)
+    {
+        document.getElementById("mainImage").setAttribute("src", document.getElementById(id).getAttribute("src"));
+    }
+
+</script>
+
+<h2>@Model.Name Details</h2>
+
+<div class="row container">
+
+    <div class="col-md-4 row" style="margin:15px; border:thin solid silver; overflow:hidden;">
+
+        @if (Model.productImages.Count <= 0)
+        {
+            <img id="mainImage" class="col-md-12" src="../../uploads/productImages/noproductimage.png" />
+        }
+        else
+        {
+            var pi = Model.productImages.First();
+            <img id="mainImage" class="col-md-12 mainImage" src="../../uploads/productImages/@(pi.Id.ToString() + "_" + pi.Image)" />
+        }
+
+
+        @{
+                int i = 0;
+                foreach (var pi in Model.productImages)
+                {
+                   @Html.Raw("<img id=\"subImage" + i.ToString() + "\" class=\"subImage\" src=\"../../uploads/productImages/" + pi.Id.ToString() + "_" + pi.Image + "\" onClick=\"changeImage('subImage" + i.ToString() + "')\" />")
+                i++;
+            }
+            }
+
+
+
+
+    </div>
+
+
+    <div class="col-md-6" style="border:thin solid silver;">
+
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.RegularPrice)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.RegularPrice)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.OfferPrice)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.OfferPrice)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Negotiable)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Negotiable)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Links)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Links)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Video)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Video)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CreateDate)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Ip)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Ip)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.brand.name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.brand.name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.category.name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.category.name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.condition.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.condition.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.user.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.user.Name)
+            </dd>
+
+        </dl>
+    <div class="container" style="padding:20px; background-color:#ff6a00;">
+
+        <a href="../../Message/Dasboard?product=@Model.Id">Send Message (ekhane icon ase)</a>
+
+    </div>
+
+    </div>
+
+
+
+</div>
+
+@if (Session["type"] != null && Session["type"].ToString() != "")
+{
+<form method="post" action="">
+    <div class="form-group">
+        <textarea name="comments" id="comments" required></textarea>
+        <input type="submit" name="submit" class="btn-default" value="Comment"/>
+    </div>
+
+</form>
+}
+<div class="row container">
+    @foreach(var cmt in Model.comments)
+    {
+        <div class="col-md-4">
+            @cmt.user.Name<br>
+            @cmt.DateTime.ToString()
+        </div>
+        <div class="col-md-6">
+            @cmt.Comment1
+        </div>
+    }
+
+</div>
+
+

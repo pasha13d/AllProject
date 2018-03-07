@@ -1,0 +1,140 @@
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\csc.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\vbc.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\BDJ.UCommerce.dll.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\BDJ.UCommerce.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\BDJ.UCommerce.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Antlr3.Runtime.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Newtonsoft.Json.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Owin.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Helpers.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Mvc.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Optimization.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Razor.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\WebGrease.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Helpers.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Mvc.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Optimization.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Razor.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Newtonsoft.Json.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\obj\Debug\BDJ.UCommerce.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\obj\Debug\BDJ.UCommerce.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\obj\Debug\BDJ.UCommerce.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\BDJ.UCommerce\BDJ.UCommerce\bin\Content\Site.css
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\csc.exe
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\System.Collections.Immutable.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\System.Reflection.Metadata.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\vbc.exe
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\VBCSCompiler.exe
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\roslyn\VBCSCompiler.exe.config
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Content\Site.css
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\BDJ.UCommerce.dll.config
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\BDJ.UCommerce.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\BDJ.UCommerce.pdb
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Antlr3.Runtime.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.SqlServer.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Google.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Web.Infrastructure.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Newtonsoft.Json.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Owin.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Helpers.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Mvc.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Optimization.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Razor.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Deployment.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Razor.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\WebGrease.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Helpers.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Mvc.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Optimization.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.Razor.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Deployment.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\System.Web.WebPages.Razor.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Antlr3.Runtime.pdb
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Newtonsoft.Json.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\EntityFramework.SqlServer.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Google.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\obj\Debug\BDJ.UCommerce.csprojResolveAssemblyReference.cache
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\obj\Debug\BDJ.UCommerce.dll
+G:\BDJobs_Training\January_2018\Class_037\BDJ.UCommerce\BDJ.UCommerce\obj\Debug\BDJ.UCommerce.pdb

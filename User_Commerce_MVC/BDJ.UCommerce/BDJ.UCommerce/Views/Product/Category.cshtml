@@ -1,0 +1,61 @@
+﻿@model IEnumerable<BDJ.UCommerce.Models.product>
+
+@{
+    ViewBag.Title = "All Products";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+<h2>@ViewBag.category, 
+    @if(ViewBag.brand != null && ViewBag.brand != "")
+    {
+        @Html.Raw(" of " + ViewBag.brand)
+    }
+    </h2>
+
+  
+
+@foreach (var item in Model)
+{
+    <div class="product">
+        <a href="../../Product/Details/@item.Id">
+            @if (item.productImages.Count > 0)
+            {
+                var pi = item.productImages.First();
+                <img class="img" src="../../uploads/productImages/@(pi.Id.ToString() + "_" + pi.Image)" title="@item.productImages.Count" />
+            }
+            else
+            {
+                <img class="img" src="../../uploads/productImages/noproductimage.png" />
+            }
+        </a>
+        <div>
+            <span>@item.Name, <i>@item.condition.Name </i></span>
+            <span>in : @item.category.name, brand : @item.brand.name</span>
+            <span>Regular Price : <i style="text-decoration:line-through;">@item.RegularPrice </i> Offer Price : @item.OfferPrice</span>
+            <span>
+            Comments : <a href="#">@item.comments.Count</a> 
+            @if(Session["type"].ToString() == "")
+            {
+                @Html.Raw("Like")
+            }
+            else
+            {
+                var uid = (int)Session["id"];
+                var plu = item.productLikes.Where(pl => pl.UserId == uid);
+                if (plu.Count() <= 0)
+                {
+                    <a href="../Product/All?like=@item.Id">Like</a>
+                }
+                else
+                {
+                    <a href="#">You Liked</a>
+                }
+            }
+                 : <a href="#">@item.productLikes.Count</a>
+            </span>
+        </div>
+        
+        <p>@item.Description</p>
+
+    </div>
+}

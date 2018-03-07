@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BDJ.UCommerce.Models.product>
+
+@{
+    ViewBag.Title = "All Products";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+}
+
+<div class="container">
+    <form method="post" action="">
+        <input type="text" name="search" value="@ViewBag.search"/>
+        <label>Brand</label>
+        @Html.DropDownList("brand", new SelectList(new BDJ.UCommerce.Models.bdjUCommerceEntities().brands, "id", "name", ViewBag.brand), "Select")
+        <label>Price From</label>
+        <input type="text" name="priceFrom"  value="@ViewBag.priceFrom"/>
+        <label>Price To</label>
+        <input type="text" name="priceTo" value="@ViewBag.priceTo" />
+        
+        <input type="radio" name="nego" value="all" @{ if (ViewBag.nego == "all") { @Html.Raw("checked") } } /> All
+        <input type="radio" name="nego" value="Fixed" @{ if (ViewBag.nego == "Fixed") { @Html.Raw("checked") } } /> Fixed Price
+        <input type="radio" name="nego" value="Not Fixed" @{ if (ViewBag.nego == "Not Fixed") { @Html.Raw("checked") } } /> Negotiable
+        
+        <input type="submit" name="submit" value="Search" class="btn-default"/>
+
+    </form>
+</div>
+  
+@foreach (var item in Model)
+{
+    <div class="product">
+        <a href="../../Product/Details/@item.Id">
+            @if (item.productImages.Count > 0)
+            {
+                var pi = item.productImages.First();
+                <img class="img" src="../../uploads/productImages/@(pi.Id.ToString() + "_" + pi.Image)" title="@item.productImages.Count" />
+            }
+            else
+            {
+                <img class="img" src="../../uploads/productImages/noproductimage.png" />
+            }
+        </a>
+        <div>
+            <span>@Html.Raw(item.Name.Replace(ViewBag.search, "<hl>" + ViewBag.search + "</hl>")), <i>@item.condition.Name </i></span>
+            <span>in : @item.category.name, brand : @item.brand.name</span>
+            <span>Regular Price : <i style="text-decoration:line-through;">@item.RegularPrice </i> Offer Price : @item.OfferPrice</span>
+            <span>
+            Comments : <a href="#">@item.comments.Count</a> 
+            @if(Session["type"].ToString() == "")
+            {
+                @Html.Raw("Like")
+            }
+            else
+            {
+                var uid = (int)Session["id"];
+                var plu = item.productLikes.Where(pl => pl.UserId == uid);
+                if (plu.Count() <= 0)
+                {
+                    <a href="../Product/All?like=@item.Id">Like</a>
+                }
+                else
+                {
+                    <a href="#">You Liked</a>
+                }
+            }
+                 : <a href="#">@item.productLikes.Count</a>
+            </span>
+        </div>
+        
+        <p>@item.Description</p>
+
+    </div>
+}

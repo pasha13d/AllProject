@@ -1,0 +1,139 @@
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\csc.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\vbc.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\POSW.dll.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\POSW.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\POSW.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Antlr3.Runtime.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\EntityFramework.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\EntityFramework.SqlServer.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Newtonsoft.Json.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Owin.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\System.Web.Optimization.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\System.Web.Providers.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\WebGrease.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\System.Web.Optimization.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Antlr3.Runtime.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Newtonsoft.Json.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\EntityFramework.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\EntityFramework.SqlServer.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\System.Web.Providers.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\obj\Debug\POSW.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\obj\Debug\POSW.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\obj\Debug\POSW.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\uploads\productImages\noproductimage.png
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Content\public.css
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\Content\Products.css
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\POSW\POSW\bin\AjaxControlToolkit.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\csc.exe
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\System.Collections.Immutable.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\System.Reflection.Metadata.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\vbc.exe
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\VBCSCompiler.exe
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\roslyn\VBCSCompiler.exe.config
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Content\Products.css
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Content\public.css
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\uploads\productImages\noproductimage.png
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\POSW.dll.config
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\POSW.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\POSW.pdb
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Antlr3.Runtime.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\AspNet.ScriptManager.bootstrap.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\AspNet.ScriptManager.jQuery.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\EntityFramework.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\EntityFramework.SqlServer.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Google.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.ScriptManager.WebForms.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Web.Infrastructure.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Newtonsoft.Json.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Owin.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\System.Web.Optimization.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\System.Web.Providers.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\WebGrease.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\System.Web.Optimization.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Antlr3.Runtime.pdb
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Newtonsoft.Json.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\EntityFramework.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\EntityFramework.SqlServer.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\System.Web.Providers.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Google.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\obj\Debug\POSW.csprojResolveAssemblyReference.cache
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\obj\Debug\POSW.dll
+G:\BdJobs_Training_Practise\GIT_UP\POSW\POSW\obj\Debug\POSW.pdb

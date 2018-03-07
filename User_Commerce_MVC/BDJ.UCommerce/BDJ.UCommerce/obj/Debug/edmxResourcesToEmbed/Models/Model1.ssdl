@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bdjUCommerceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="adminUser">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="archieve">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="brand">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="description" Type="varchar" MaxLength="2000" />
+    <Property Name="origin" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="description" Type="varchar" MaxLength="2000" />
+    <Property Name="categoryId" Type="int" />
+  </EntityType>
+  <EntityType Name="city">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="countryId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="closeType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+    <Property Name="Decription" Type="varchar" MaxLength="2000" />
+  </EntityType>
+  <EntityType Name="comments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Comment" Type="varchar" MaxLength="2000" />
+  </EntityType>
+  <EntityType Name="condition">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="2000" />
+  </EntityType>
+  <EntityType Name="country">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="logInHistory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="messages">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="message" Type="varchar" MaxLength="2000" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="500" />
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+    <Property Name="BrandId" Type="int" Nullable="false" />
+    <Property Name="ConditionId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="RegularPrice" Type="float" Nullable="false" />
+    <Property Name="OfferPrice" Type="float" />
+    <Property Name="Negotiable" Type="bit" />
+    <Property Name="Links" Type="varchar" MaxLength="500" />
+    <Property Name="Video" Type="varchar" MaxLength="500" />
+    <Property Name="CreateDate" Type="datetime" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="productClosed">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" Nullable="false" />
+    <Property Name="ClosingTypeId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="productImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="Image" Type="varchar" MaxLength="200" />
+    <Property Name="Title" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="productLike">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="productRating">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="productVerified">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="AdminUserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+    <Property Name="Contact" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Gender" Type="bit" />
+    <Property Name="JoinDate" Type="datetime" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfBirth" Type="date" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="500" />
+    <Property Name="CityId" Type="int" Nullable="false" />
+    <Property Name="Image" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="userVerified">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateTime" Type="date" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'bdjUCommerce.dbo.vwNonVerifiedUsers' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vwNonVerifiedUsers">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Contact" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Password" />
+      <PropertyRef Name="JoinDate" />
+      <PropertyRef Name="Ip" />
+      <PropertyRef Name="DateOfBirth" />
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+    <Property Name="Contact" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Gender" Type="bit" />
+    <Property Name="JoinDate" Type="datetime" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfBirth" Type="date" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="500" />
+    <Property Name="CityId" Type="int" Nullable="false" />
+    <Property Name="Image" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'bdjUCommerce.dbo.vwVerifiedUsers' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vwVerifiedUsers">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Contact" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Password" />
+      <PropertyRef Name="JoinDate" />
+      <PropertyRef Name="Ip" />
+      <PropertyRef Name="DateOfBirth" />
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+    <Property Name="Contact" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Gender" Type="bit" />
+    <Property Name="JoinDate" Type="datetime" Nullable="false" />
+    <Property Name="Ip" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfBirth" Type="date" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="500" />
+    <Property Name="CityId" Type="int" Nullable="false" />
+    <Property Name="Image" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <Association Name="FK__adminUser__UserI__7C4F7684">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="adminUser" Type="Self.adminUser" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="adminUser">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__archieve__Produc__5CD6CB2B">
+    <End Role="product" Type="Self.product" Multiplicity="0..1" />
+    <End Role="archieve" Type="Self.archieve" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="archieve">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__archieve__UserId__5DCAEF64">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="archieve" Type="Self.archieve" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="archieve">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__category__catego__2D27B809">
+    <End Role="category" Type="Self.category" Multiplicity="0..1" />
+    <End Role="category1" Type="Self.category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="category1">
+        <PropertyRef Name="categoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__city__countryId__267ABA7A">
+    <End Role="country" Type="Self.country" Multiplicity="1" />
+    <End Role="city" Type="Self.city" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="country">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="city">
+        <PropertyRef Name="countryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__comments__Produc__778AC167">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="comments" Type="Self.comments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="comments">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__comments__UserId__76969D2E">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="comments" Type="Self.comments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="comments">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__logInHist__UserI__71D1E811">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="logInHistory" Type="Self.logInHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="logInHistory">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__messages__Produc__6D0D32F4">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="messages" Type="Self.messages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="messages">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__messages__UserId__6E01572D">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="messages" Type="Self.messages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="messages">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__product__BrandId__5812160E">
+    <End Role="brand" Type="Self.brand" Multiplicity="1" />
+    <End Role="product" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="brand">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="product">
+        <PropertyRef Name="BrandId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__product__Categor__571DF1D5">
+    <End Role="category" Type="Self.category" Multiplicity="1" />
+    <End Role="product" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="product">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__product__Conditi__59FA5E80">
+    <End Role="condition" Type="Self.condition" Multiplicity="1" />
+    <End Role="product" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="condition">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="product">
+        <PropertyRef Name="ConditionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__product__UserId__59063A47">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="product" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="product">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productCl__Produ__5FB337D6">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="productClosed" Type="Self.productClosed" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productClosed">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productIm__Produ__66603565">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="productImage" Type="Self.productImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productImage">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productLi__Produ__628FA481">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="productLike" Type="Self.productLike" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productLike">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productLi__UserI__6383C8BA">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="productLike" Type="Self.productLike" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productLike">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productRa__Produ__693CA210">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="productRating" Type="Self.productRating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productRating">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productRa__UserI__6A30C649">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="productRating" Type="Self.productRating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productRating">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productVe__Admin__7F2BE32F">
+    <End Role="adminUser" Type="Self.adminUser" Multiplicity="1" />
+    <End Role="productVerified" Type="Self.productVerified" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="adminUser">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="productVerified">
+        <PropertyRef Name="AdminUserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__productVe__Produ__7E37BEF6">
+    <End Role="product" Type="Self.product" Multiplicity="1" />
+    <End Role="productVerified" Type="Self.productVerified" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productVerified">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__users__CityId__5441852A">
+    <End Role="city" Type="Self.city" Multiplicity="1" />
+    <End Role="users" Type="Self.users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="city">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="users">
+        <PropertyRef Name="CityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__userVerif__UserI__797309D9">
+    <End Role="users" Type="Self.users" Multiplicity="1" />
+    <End Role="userVerified" Type="Self.userVerified" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="userVerified">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_productClosed_closeType">
+    <End Role="closeType" Type="Self.closeType" Multiplicity="1" />
+    <End Role="productClosed" Type="Self.productClosed" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="closeType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="productClosed">
+        <PropertyRef Name="ClosingTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bdjUCommerceModelStoreContainer">
+    <EntitySet Name="adminUser" EntityType="Self.adminUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="archieve" EntityType="Self.archieve" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="brand" EntityType="Self.brand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="category" EntityType="Self.category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="city" EntityType="Self.city" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="closeType" EntityType="Self.closeType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="comments" EntityType="Self.comments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="condition" EntityType="Self.condition" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="country" EntityType="Self.country" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="logInHistory" EntityType="Self.logInHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="messages" EntityType="Self.messages" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="productClosed" EntityType="Self.productClosed" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="productImage" EntityType="Self.productImage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="productLike" EntityType="Self.productLike" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="productRating" EntityType="Self.productRating" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="productVerified" EntityType="Self.productVerified" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="userVerified" EntityType="Self.userVerified" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vwNonVerifiedUsers" EntityType="Self.vwNonVerifiedUsers" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vwNonVerifiedUsers].[Id] AS [Id], 
+    [vwNonVerifiedUsers].[Name] AS [Name], 
+    [vwNonVerifiedUsers].[Contact] AS [Contact], 
+    [vwNonVerifiedUsers].[Email] AS [Email], 
+    [vwNonVerifiedUsers].[Password] AS [Password], 
+    [vwNonVerifiedUsers].[Gender] AS [Gender], 
+    [vwNonVerifiedUsers].[JoinDate] AS [JoinDate], 
+    [vwNonVerifiedUsers].[Ip] AS [Ip], 
+    [vwNonVerifiedUsers].[DateOfBirth] AS [DateOfBirth], 
+    [vwNonVerifiedUsers].[Address] AS [Address], 
+    [vwNonVerifiedUsers].[CityId] AS [CityId], 
+    [vwNonVerifiedUsers].[Image] AS [Image]
+    FROM [dbo].[vwNonVerifiedUsers] AS [vwNonVerifiedUsers]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vwVerifiedUsers" EntityType="Self.vwVerifiedUsers" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vwVerifiedUsers].[Id] AS [Id], 
+    [vwVerifiedUsers].[Name] AS [Name], 
+    [vwVerifiedUsers].[Contact] AS [Contact], 
+    [vwVerifiedUsers].[Email] AS [Email], 
+    [vwVerifiedUsers].[Password] AS [Password], 
+    [vwVerifiedUsers].[Gender] AS [Gender], 
+    [vwVerifiedUsers].[JoinDate] AS [JoinDate], 
+    [vwVerifiedUsers].[Ip] AS [Ip], 
+    [vwVerifiedUsers].[DateOfBirth] AS [DateOfBirth], 
+    [vwVerifiedUsers].[Address] AS [Address], 
+    [vwVerifiedUsers].[CityId] AS [CityId], 
+    [vwVerifiedUsers].[Image] AS [Image]
+    FROM [dbo].[vwVerifiedUsers] AS [vwVerifiedUsers]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__adminUser__UserI__7C4F7684" Association="Self.FK__adminUser__UserI__7C4F7684">
+      <End Role="users" EntitySet="users" />
+      <End Role="adminUser" EntitySet="adminUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK__archieve__Produc__5CD6CB2B" Association="Self.FK__archieve__Produc__5CD6CB2B">
+      <End Role="product" EntitySet="product" />
+      <End Role="archieve" EntitySet="archieve" />
+    </AssociationSet>
+    <AssociationSet Name="FK__archieve__UserId__5DCAEF64" Association="Self.FK__archieve__UserId__5DCAEF64">
+      <End Role="users" EntitySet="users" />
+      <End Role="archieve" EntitySet="archieve" />
+    </AssociationSet>
+    <AssociationSet Name="FK__category__catego__2D27B809" Association="Self.FK__category__catego__2D27B809">
+      <End Role="category" EntitySet="category" />
+      <End Role="category1" EntitySet="category" />
+    </AssociationSet>
+    <AssociationSet Name="FK__city__countryId__267ABA7A" Association="Self.FK__city__countryId__267ABA7A">
+      <End Role="country" EntitySet="country" />
+      <End Role="city" EntitySet="city" />
+    </AssociationSet>
+    <AssociationSet Name="FK__comments__Produc__778AC167" Association="Self.FK__comments__Produc__778AC167">
+      <End Role="product" EntitySet="product" />
+      <End Role="comments" EntitySet="comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__comments__UserId__76969D2E" Association="Self.FK__comments__UserId__76969D2E">
+      <End Role="users" EntitySet="users" />
+      <End Role="comments" EntitySet="comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__logInHist__UserI__71D1E811" Association="Self.FK__logInHist__UserI__71D1E811">
+      <End Role="users" EntitySet="users" />
+      <End Role="logInHistory" EntitySet="logInHistory" />
+    </AssociationSet>
+    <AssociationSet Name="FK__messages__Produc__6D0D32F4" Association="Self.FK__messages__Produc__6D0D32F4">
+      <End Role="product" EntitySet="product" />
+      <End Role="messages" EntitySet="messages" />
+    </AssociationSet>
+    <AssociationSet Name="FK__messages__UserId__6E01572D" Association="Self.FK__messages__UserId__6E01572D">
+      <End Role="users" EntitySet="users" />
+      <End Role="messages" EntitySet="messages" />
+    </AssociationSet>
+    <AssociationSet Name="FK__product__BrandId__5812160E" Association="Self.FK__product__BrandId__5812160E">
+      <End Role="brand" EntitySet="brand" />
+      <End Role="product" EntitySet="product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__product__Categor__571DF1D5" Association="Self.FK__product__Categor__571DF1D5">
+      <End Role="category" EntitySet="category" />
+      <End Role="product" EntitySet="product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__product__Conditi__59FA5E80" Association="Self.FK__product__Conditi__59FA5E80">
+      <End Role="condition" EntitySet="condition" />
+      <End Role="product" EntitySet="product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__product__UserId__59063A47" Association="Self.FK__product__UserId__59063A47">
+      <End Role="users" EntitySet="users" />
+      <End Role="product" EntitySet="product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productCl__Produ__5FB337D6" Association="Self.FK__productCl__Produ__5FB337D6">
+      <End Role="product" EntitySet="product" />
+      <End Role="productClosed" EntitySet="productClosed" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productIm__Produ__66603565" Association="Self.FK__productIm__Produ__66603565">
+      <End Role="product" EntitySet="product" />
+      <End Role="productImage" EntitySet="productImage" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productLi__Produ__628FA481" Association="Self.FK__productLi__Produ__628FA481">
+      <End Role="product" EntitySet="product" />
+      <End Role="productLike" EntitySet="productLike" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productLi__UserI__6383C8BA" Association="Self.FK__productLi__UserI__6383C8BA">
+      <End Role="users" EntitySet="users" />
+      <End Role="productLike" EntitySet="productLike" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productRa__Produ__693CA210" Association="Self.FK__productRa__Produ__693CA210">
+      <End Role="product" EntitySet="product" />
+      <End Role="productRating" EntitySet="productRating" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productRa__UserI__6A30C649" Association="Self.FK__productRa__UserI__6A30C649">
+      <End Role="users" EntitySet="users" />
+      <End Role="productRating" EntitySet="productRating" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productVe__Admin__7F2BE32F" Association="Self.FK__productVe__Admin__7F2BE32F">
+      <End Role="adminUser" EntitySet="adminUser" />
+      <End Role="productVerified" EntitySet="productVerified" />
+    </AssociationSet>
+    <AssociationSet Name="FK__productVe__Produ__7E37BEF6" Association="Self.FK__productVe__Produ__7E37BEF6">
+      <End Role="product" EntitySet="product" />
+      <End Role="productVerified" EntitySet="productVerified" />
+    </AssociationSet>
+    <AssociationSet Name="FK__users__CityId__5441852A" Association="Self.FK__users__CityId__5441852A">
+      <End Role="city" EntitySet="city" />
+      <End Role="users" EntitySet="users" />
+    </AssociationSet>
+    <AssociationSet Name="FK__userVerif__UserI__797309D9" Association="Self.FK__userVerif__UserI__797309D9">
+      <End Role="users" EntitySet="users" />
+      <End Role="userVerified" EntitySet="userVerified" />
+    </AssociationSet>
+    <AssociationSet Name="FK_productClosed_closeType" Association="Self.FK_productClosed_closeType">
+      <End Role="closeType" EntitySet="closeType" />
+      <End Role="productClosed" EntitySet="productClosed" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

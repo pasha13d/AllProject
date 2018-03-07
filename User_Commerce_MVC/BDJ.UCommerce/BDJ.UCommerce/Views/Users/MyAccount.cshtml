@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "MyAccount";
+}
+
+<h2>MyAccount</h2>
+
+<div>
+    My Product : <a href="../Product?User=@Session["id"]">@(new BDJ.UCommerce.Models.bdjUCommerceEntities().products.Where(p=>p.UserId == 2).Count())</a>
+</div>
+

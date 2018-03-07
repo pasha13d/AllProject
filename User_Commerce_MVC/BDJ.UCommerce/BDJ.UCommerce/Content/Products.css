@@ -1,0 +1,61 @@
+﻿.product
+{
+    width:250px;
+    height:350px;
+    border:thin yellow solid;
+    border-radius:40px/12px;
+    float:left;
+    margin:15px;
+    box-shadow:0px 2px silver;
+    overflow:hidden;
+    position:relative;
+    font-size:12px;
+}
+
+.img
+{
+    width:250px;
+}
+
+.product div{
+    position:absolute;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    background-color:rgba(0, 0, 0, 0.50);
+}
+
+.product div span{
+    display:block;
+    font-weight:bold;
+    padding:3px;
+    padding-left:5px;
+    border-bottom:white thin solid;
+    color:white; 
+    
+}
+
+.product p{
+    padding:10px;
+    position:absolute;
+    top:10px;
+    left:10px;
+    right:10px;
+    visibility:hidden;
+    background-color:rgba(0, 0, 0, 0.50);
+    color:white;
+}
+
+.product:hover p{
+    visibility:visible;
+}
+
+.mainImage{
+    margin:5px;
+    border-bottom:red 1px solid;
+}
+
+.subImage{
+    height:120px;
+    margin:5px;
+}

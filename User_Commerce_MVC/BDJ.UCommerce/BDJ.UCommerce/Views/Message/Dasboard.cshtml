@@ -1,0 +1,135 @@
+﻿@model IEnumerable<BDJ.UCommerce.Models.message>
+
+@{
+    ViewBag.Title = "Dasboard";
+    Layout = "~/Views/Shared/_PublicLayout.cshtml";
+    int uid = (int)Session["id"];
+}
+
+<h2>Message Dasboard</h2>
+
+<div class="container row" style="background-color:rgba(0, 0, 0, 0.74); padding:20px;">
+
+    <div class="col-md-4" style="padding:10px; border:thin silver solid;">
+        @foreach (var item in Model)
+        {
+            if (Request.QueryString["product"] == item.ProductId.ToString())
+            {
+                <a href="../../Message/Dasboard?product=@item.ProductId" style="display:block; padding:5px; background-color:white; font-weight:bold; text-decoration:none;"> @Html.DisplayFor(modelItem => item.product.Name)
+                    @if(item.product.UserId == uid)
+                    {
+                        @Html.Raw("[Me]");          
+                    }
+                </a>
+            }
+            else
+            {
+                <a href="../../Message/Dasboard?product=@item.ProductId" style="display:block; padding:5px; background-color:black; color:white; font-weight:bold; text-decoration:none;"> @Html.DisplayFor(modelItem => item.product.Name)
+                    @if (item.product.UserId == uid)
+                    {
+                        @Html.Raw("[Me]");
+                    }    
+                </a>
+            }
+            
+        }
+    </div>
+    <div id="comentsDisplay" class="col-md-7 row" style="padding:10px; margin:10px; border:thin silver solid; background-color:white;">
+        @{
+            if (Request.QueryString["product"] != "")
+            {
+                int pid = Convert.ToInt32(Request.QueryString["product"]);
+                var currentMessages = new BDJ.UCommerce.Models.bdjUCommerceEntities().messages.Where(m => m.ProductId == pid && (m.UserId == m.product.UserId || m.UserId == uid));
+                foreach (var itm in currentMessages)
+                {
+                    <div class="col-md-12">
+                        <div class="col-md-4" style="background-color:rgba(180, 75, 75, 0.64); padding:10px;">
+                            <b>@itm.user.Name</b>
+                            @itm.DateTime
+                        </div>
+                        <div class="col-md-7" style="padding:10px;">
+                            <p> @itm.message1</p>
+                        </div>
+                    </div>
+                }
+                if (currentMessages.Count() > 0 && currentMessages.First().product.UserId == uid)
+                {
+                    int pid2 = Convert.ToInt32(Request.QueryString["product"]);
+                    var productClo = new BDJ.UCommerce.Models.bdjUCommerceEntities().productCloseds.Where(pc => pc.ProductId == pid2);
+                    if (productClo.Count() > 0)
+                    {
+                                    @Html.Raw("This product is closed for ")
+                                }
+                                else
+                                {
+                    <div  class="col-md-12" style="padding:10px;">
+                        
+                            @Html.DropDownList("ClosingTypeId", new SelectList(new BDJ.UCommerce.Models.bdjUCommerceEntities().closeTypes, "id", "name", ViewBag.ClosingTypeId), "Select Cloding Type")
+                            <input type="button" id="btnCloseProduct" onclick="closeProduct(@Request.QueryString["product"])" name="btnCloseProduct" value="Close This Product" />
+                        
+                    </div>
+                    <div id="closingFunction" class="col-md-12">
+                        Close product from here
+                    </div>
+                    }
+            }
+
+
+                }
+            }
+    </div>
+
+</div>
+<div class="container row" style="background-color:rgba(0, 0, 0, 0.74); padding:20px;">
+        <textarea name="messageData" id="messageData"></textarea>
+        <input type="button" name="submit" onclick="comments(@Request.QueryString["product"])" value="Send" />    
+</div>
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<script type="text/javascript">
+
+    function closeProduct(product)
+    {
+        $.ajax({
+            type: 'get',
+            url: '/Message/CloseProduct',
+            dataType: 'json',
+            data: { product: product, ClosingTypeId:  $('#ClosingTypeId').val()},
+            success: function (data) {
+                alert(data.responseText);
+                document.getElementById('closingFunction').innerHTML('Item Closed successfully');
+            },
+            error: function (ex) {
+                alert(ex.responseText);
+            }
+        });
+
+    }
+
+    function comments(product) {
+        $.ajax({
+            type: 'post',
+            url: '/Message/MakeComments',
+            dataType: 'json',
+            data: { product: product, comments: $('#messageData').val() },
+            success: function (data) {
+                alert(data.responseText);
+                $('#commentsDisplay').append('<div class="col-md-12"><div class="col-md-4" style="background-color:rgba(180, 75, 75, 0.64); padding:10px;"><b> You </b>Now</div><div class="col-md-7" style="padding:10px;"><p> ' + $('#messageData').val() + '</p></div></div>');
+                $('#messageData').val('');
+            },
+            error: function (ex) {
+                alert(ex.responseText);
+            }
+        });
+
+    }
+
+</script>
+
+
+

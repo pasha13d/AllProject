@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fa5480cf009c4ce9bb682ba11a054336" Name="Diagram1">
+        <EntityTypeShape EntityType="bdjUCommerceModel.adminUser" Width="1.5" PointX="7.5" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.archieve" Width="1.5" PointX="7.5" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.brand" Width="1.5" PointX="10.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.category" Width="1.5" PointX="10.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.city" Width="1.5" PointX="3" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.closeType" Width="1.5" PointX="12.5" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.comment" Width="1.5" PointX="10.5" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.condition" Width="1.5" PointX="10.25" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.country" Width="1.5" PointX="0.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.logInHistory" Width="1.5" PointX="7.5" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.message" Width="1.5" PointX="10.5" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.product" Width="1.5" PointX="12.5" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.productClosed" Width="1.5" PointX="14.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.productImage" Width="1.5" PointX="14.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.productLike" Width="1.5" PointX="17.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.productRating" Width="1.5" PointX="14.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.productVerified" Width="1.5" PointX="9.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.user" Width="1.5" PointX="5.25" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.userVerified" Width="1.5" PointX="7.5" PointY="35" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.vwNonVerifiedUser" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bdjUCommerceModel.vwVerifiedUser" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__adminUser__UserI__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productVe__Admin__7F2BE32F" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__archieve__Produc__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__archieve__UserId__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__product__BrandId__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__category__catego__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__product__Categor__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__city__countryId__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__users__CityId__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK_productClosed_closeType" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__comments__Produc__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__comments__UserId__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__product__Conditi__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__logInHist__UserI__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__messages__Produc__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__messages__UserId__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__product__UserId__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productCl__Produ__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productIm__Produ__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productLi__Produ__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productRa__Produ__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productVe__Produ__7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productLi__UserI__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__productRa__UserI__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="bdjUCommerceModel.FK__userVerif__UserI__797309D9" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
