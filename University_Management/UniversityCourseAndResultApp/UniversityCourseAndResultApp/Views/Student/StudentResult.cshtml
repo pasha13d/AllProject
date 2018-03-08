@@ -1,0 +1,230 @@
+﻿@model UniversityCourseAndResultApp.Models.EnrollCourse
+
+@{
+    ViewBag.Title = "StudentResult";
+    string message = ViewBag.message ?? "";
+}
+
+<h2>StudentResult</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            @Html.Label("StudentRegNo", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" id="StudentRegNo" name="StudentRegNo">
+                    <option value="">--Select a Reg No--</option>
+                    @foreach (var regno in ViewBag.student)
+                    {
+                        <option value="@regno.Id">@regno.RegNo</option>
+                    }
+                </select>
+                @*@Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Names", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*<input type="text" name="Name" id="Name" class="form-control" readonly="readonly" />*@
+                <select class="form-control" id="Name" name="Name">
+                    <option value="">--Select a Teacher--</option>
+                </select>
+            </div>
+            @* @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })*@
+        </div>
+        <div class="form-group">
+            @Html.Label("Emails", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*<input type="text" name="Email" id="Email" class="form-control" readonly="readonly"  />*@
+                <select class="form-control" id="Email" name="Email">
+                    @*<option value="">--Select a Teacher--</option>*@
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Department Name", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*<input type="text" name="DepartmentId" id="DepartmentId" class="form-control" readonly="readonly" />*@
+                <select class="form-control" id="DepartmentId" name="DepartmentId">
+                    @*<option value="">--Select a Teacher--</option>*@
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("C_Id", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" id="DeptId" name="DeptId">
+                    @*<option value="">--Select a Teacher--</option>*@
+        </select>
+            </div>
+        @* @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })*@
+        </div>
+        <div class="form-group">
+            @Html.Label("GradeId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" id="StudentRegNo" name="StudentRegNo">
+                    <option value="">--Select a Grade--</option>
+                    @foreach (var grades in ViewBag.grade)
+                    {
+                        <option value="@grades.Grades">@grades.Grades</option>
+                    }
+                </select>
+            </div>
+            @* @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })*@
+        </div>
+      
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-success" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @message
+            </div>
+        </div>
+    </div>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery-3.1.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.0.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $("#date").datepicker({
+                dateFormat: 'yy/mm/dd',
+                changeMonth: true,
+                changeYear: true
+            });
+            $("#date").datepicker("setDate", new Date());
+        });
+    </script>
+
+
+
+
+    @* Name*@
+
+    <script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#Name").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentName", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#Name").append('<option value=' + value.Name + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+    @* Email*@
+
+    <script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#Email").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentEmail", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#Email").append('<option value=' + value.Email + '>' + value.Email + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
+    @* dept*@
+
+    <script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#DepartmentId").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentDept", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#DepartmentId").append('<option value=' + value.DepartmentId + '>' + value.DepartmentName + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
+
+    @* SelectCourse*@
+
+    <script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#DeptId").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetSelectCourse", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#DeptId").append('<option value=' + value.deptId + '>' + value.CourseName + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}

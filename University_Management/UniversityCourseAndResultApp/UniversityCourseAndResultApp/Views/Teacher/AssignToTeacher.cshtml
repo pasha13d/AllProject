@@ -1,0 +1,304 @@
+﻿@model UniversityCourseAndResultApp.Models.Teacher
+
+@{
+    ViewBag.Title = "AssignToTeacher";
+}
+
+<h2>AssignToTeacher</h2>
+
+@*<form method="post" action="AssignToTeacher">
+ 
+    <table height="400" align="center" >
+        <tr>
+            <td> <label>Department</label></td>
+            <td>
+                <select id="Id" name="Id">
+                    <option>-----Select-----</option>
+                    @foreach (var dept in ViewBag.department)
+                    {
+                        <option value="@dept.Id">@dept.Name</option>
+                        
+                    }
+
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td> <label>Teacher</label></td>
+            <td>
+            
+            <select id="t_Id" name="t_Id">
+             <option>------Select--------</option>
+                </select> </td>
+        </tr>
+        <tr>
+            <td> <label>Credit To Be Taken</label></td>
+            <td><label id="credit"></label></td>
+        </tr>
+        <tr>
+            <td> <label>Reaming Credit</label></td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> <label>Course Code</label></td>
+            
+            <td><select id="Code" name="Code"> 
+                <option>-------Seect--------</option>
+                 </select> 
+            </td>
+        </tr>
+        <tr>
+            <td> <label>Name</label></td>
+            <td>
+                <label id="CourseName"></label>
+            </td>
+        </tr>
+        <tr>
+            <td> <label>Credit</label></td>
+            
+            <td>
+                <label id="Coursecredit"></label></td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> <input id="saveButton" type="submit" value="Assign" /></td>
+        </tr>
+    </table>
+</form>*@
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            @Html.Label("Department", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" id="Id" name="Id">
+                    <option value="">--Select --</option>
+                    @foreach (var dept in ViewBag.department)
+                    {
+                        <option value="@dept.Id">@dept.Name</option>
+
+                    }
+                </select>
+                @*@Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Teacher", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+               @* <input type="text" name="Name" id="Name" class="form-control" readonly="readonly" />*@
+                <select class="form-control" id="t_Id" name="t_Id">
+                    <option value="">--Select a Teacher--</option>
+                </select>
+            </div>
+            @* @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })*@
+        </div>
+        <div class="form-group">
+            @Html.Label("Credit To Be Taken", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*<input type="text" name="credit" id="credit" class="form-control" readonly="readonly" />*@
+                @*<label id="credit"></label>*@
+                <select class="form-control" id="credit" name="credit">
+                    <option value="">--Select a Teacher--</option>
+                </select>
+            </div>
+             @*@Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })*@
+        </div>
+        <div class="form-group">
+            @Html.Label("Reaming Credit", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*<input type="text" name="Email" id="Email" class="form-control" readonly="readonly"  />
+                <select class="form-control" id="Email" name="Email">
+                    @*<option value="">--Select a Teacher--</option>*@
+               @* </select>*@
+                <label id="remaningCredit"></label>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Course Code", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*<input type="text" name="DepartmentId" id="DepartmentId" class="form-control" readonly="readonly" />*@
+                <select class="form-control" id="Code" name="Code">
+                    <option value="">--Select a Teacher--</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Name", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" id="CourseName" name="CourseName">
+                    @*<option value="">--Select a Teacher--</option>*@
+                </select>
+                @*<label id="CourseName"></label>*@
+            </div>
+            @* @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })*@
+        </div>
+        <div class="form-group">
+            @Html.Label("Credit", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" id="Coursecredit" name="Coursecredit">
+                    @*<option value="">--Select a Teacher--</option>*@
+                </select>
+                @*<label id="Coursecredit"></label>*@
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Assign" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+        
+}
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<script>
+        $(document).ready(function () {
+
+            $("#Id").change(function () {
+
+                var deptId = $("#Id").val();
+                $("#t_Id").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetTeacherByDepartmentId", "Teacher")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#t_Id").append('<option value=' + value.T_Id + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+
+@*teacher credit*@
+<script>
+        $(document).ready(function () {
+
+            $("#t_Id").change(function () {
+
+                var deptId = $("#t_Id").val();
+                $("#credit").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseCredit", "Teacher")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#credit").append('<option value=' + value.T_Id + '>' + value.Credit + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+<script>
+        $(document).ready(function () {
+
+            $("#Id").change(function () {
+
+                var deptId = $("#Id").val();
+                $("#Code").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseCode", "Teacher")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#Code").append('<option value=' + value.DepartmentId + '>' + value.Code + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+
+@*<script src="~/Scripts/jquery-1.10.2.min.js"></script>*@
+@*Code show*@
+
+
+
+
+
+@* name*@
+<script>
+        $(document).ready(function () {
+
+            $("#Code").change(function () {
+
+                var deptId = $("#Code").val();
+                $("#CourseName").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseName", "Teacher")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#CourseName").append('<option value=' + value.DepartmentId + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+
+@* corse credit*@
+
+<script>
+        $(document).ready(function () {
+
+            $("#Code").change(function () {
+
+                var deptId = $("#Code").val();
+                $("#Coursecredit").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCredit", "Teacher")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#Coursecredit").append('<option value=' + value.Credit + '>' + value.Credit + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+}

@@ -1,0 +1,130 @@
+﻿@model UniversityCourseAndResultApp.Models.AllocateClassroom
+
+@{
+    ViewBag.Title = "AllocateClassRoomSave";
+    string message = ViewBag.message ?? "";
+}
+
+<h2>AllocateClassRoomSave</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>AllocateClassroom</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DepartmentId, new SelectList(ViewBag.Department, "Id", "Name"), "Select...", new { style = "width: 172px;" })
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.CourseName, new SelectList(ViewBag.Course, "Name", "Name"), "Select...", new { style = "width: 172px;" })
+                @Html.ValidationMessageFor(model => model.CourseName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RoomNo, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.RoomNo, new SelectList(ViewBag.Room, "RoomNumber", "RoomNumber"))
+                @Html.ValidationMessageFor(model => model.RoomNo)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Day, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Day, new SelectList(ViewBag.Days, "Day", "Day"))
+                @Html.ValidationMessageFor(model => model.Day)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.From, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.From)
+                @Html.ValidationMessageFor(model => model.From)
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.FromdateFormat, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.RadioButtonFor(model => model.FromdateFormat,"AM")AM
+                @Html.RadioButtonFor(model => model.FromdateFormat, "PM")PM
+                @Html.ValidationMessageFor(model => model.FromdateFormat)
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.To, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.To)
+                @Html.ValidationMessageFor(model => model.To)
+
+            </div>
+        </div>
+
+        @*<div class="form-group">
+           @* @Html.LabelFor(model => model.TodateFormat, new { @class = "control-label col-md-2" })*@
+            @*<div class="col-md-10">
+                @Html.RadioButtonFor(model => model.TodateFormat,"AM")AM
+                @Html.RadioButtonFor(model => model.TodateFormat, "PM")PM
+                @Html.ValidationMessageFor(model => model.TodateFormat)
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @message
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section Scripts {
+
+<script>
+        $(document).ready(function () {
+
+            $("#DepartmentId").change(function () {
+
+                var deptId = $("#DepartmentId").val();
+                $("#CourseName").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetSelectCourse", "AllocateClassroom")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#CourseName").append('<option value=' + value.Name + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+    }

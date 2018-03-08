@@ -1,0 +1,246 @@
+﻿@model UniversityCourseAndResultApp.Models.EnrollCourse
+
+@{
+    ViewBag.Title = "EnrolCourse";
+    string message = ViewBag.message ?? "";
+}
+
+<h2>EnrolCourse</h2>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <link href="~/CSS/jquery-ui.min.css" rel="stylesheet" />
+    <style>
+        .field-validation-error {
+            color: red;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    
+        @using (Html.BeginForm())
+        {
+            <table align="center" style="width: 593px; height: 141px; border: none">
+                <tr>
+                    <td style="border: none" class="auto-style1">
+                        <fieldset style="text-align: center; height: auto; width: 585px;">
+                            <legend style="text-align: left; font-size: 25px;">Register Student</legend><br />
+
+                            <br />
+                            <table align="center" style="width: 527px; height: 197px">
+                                <tr>
+                                    <td style="text-align: left; width: 79px">@Html.LabelFor(m => m.StudentRegNo)</td>
+                                    @*<td style="text-align: left; width: 173px;">@Html.DropDownListFor(m => m.StudentRegNo, new SelectList(ViewBag.student, "Id", "RegNo"), "Select...", new { style = "width: 172px;" })</td>*@
+                                    <td style="text-align: left; width: 173px;">
+                                        <select id="StudentRegNo" name="StudentRegNo">
+                                            <option value="">--Select a Reg No--</option>
+                                            @foreach (var regno in ViewBag.student)
+                                            {
+                                                <option value="@regno.Id">@regno.RegNo</option>
+                                            }
+                                        </select>
+                                    </td>
+                                    <td style="text-align: left;">@Html.ValidationMessageFor(m => m.StudentRegNo)</td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: left; width: 79px">@Html.LabelFor(m => m.Name)</td>
+                                    <td style="text-align: left">@*<label id="Name"></label>*@@Html.LabelFor(x => x.Name, new { @id = "Name" })</td>
+                                    <td style="text-align: left;">@Html.ValidationMessageFor(m => m.Name)</td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: left; width: 79px">@Html.LabelFor(m => m.Email)</td>
+                                    <td style="text-align: left">@*<label id="Email"></label>*@@Html.LabelFor(x => x.Email, new { @id = "Email" })</td>
+                                   @* <td style="text-align: left;">@Html.ValidationMessageFor(m => m.Email)</td>*@
+                                </tr>
+                                <tr>
+                                    <td style="text-align: left; width: 79px">@Html.LabelFor(m => m.DepartmentId)</td>
+                                    <td style="text-align: left"><label id="DepartmentId"></label></td>
+                                    <td style="text-align: left;">@Html.ValidationMessageFor(m => m.DepartmentId)</td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: left; width: 79px">@Html.LabelFor(m => m.C_Id)</td>
+                                    <td style="text-align: left"><select id="SelectCourse" name="SelectCourse">
+                                            <option>-----select-------</option>
+                                        </select>
+                                                @*<label id="selectCourse"></label>*@
+                                        </td>
+                                    <td style="text-align: left;">@Html.ValidationMessageFor(m => m.C_Id)</td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: left; width: 79px">@Html.LabelFor(m => m.Dates)</td>
+                                    <td style="text-align: left">@Html.TextBoxFor(x => x.Dates, new { @id = "date" })</td>
+                                    <td style="text-align: left">@Html.ValidationMessageFor(m => m.Dates)</td>
+                                </tr>
+                                <tr>
+
+                                    <td colspan="3" style="text-align: center"><input type="submit" value="Enroll" /></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3" style="text-align: center">@message</td>
+                                </tr>
+                            </table>
+                            <br />
+                            <br />
+                        </fieldset>
+                    </td>
+                </tr>
+            </table>
+        }
+    
+
+    @*<script src="~/Scripts/jquery-2.2.0.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+        <script src="~/Scripts/jquery-ui-1.11.4.js"></script>*@
+
+    >
+</body>
+</html>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+   <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery-3.1.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.0.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $("#date").datepicker({
+                dateFormat: 'yy/mm/dd',
+                changeMonth: true,
+                changeYear: true
+            });
+            $("#date").datepicker("setDate", new Date());
+        });
+    </script>
+
+
+
+
+   @* Name*@
+
+<script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#Name").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentName", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#Name").append('<option value=' + value.RegNo + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+   @* Email*@
+
+<script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#Email").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentEmail", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#Email").append('<option value=' + value.RegNo + '>' + value.Email + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+
+   @* dept*@
+
+<script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#DepartmentId").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetStudentDept", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#DepartmentId").append('<option value=' + value.DepartmentId + '>' + value.DepartmentName + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+
+
+@* SelectCourse*@
+
+<script>
+        $(document).ready(function () {
+
+            $("#StudentRegNo").change(function () {
+
+                var deptId = $("#StudentRegNo").val();
+                $("#SelectCourse").empty();
+                //var json = { Id: deptId };
+                var json = { Ids: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetSelectCourse", "Student")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#SelectCourse").append('<option value=' + value.deptId + '>' + value.CourseName + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+</script>
+}

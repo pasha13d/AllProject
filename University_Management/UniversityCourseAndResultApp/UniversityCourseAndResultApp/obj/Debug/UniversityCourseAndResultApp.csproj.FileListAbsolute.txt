@@ -1,0 +1,439 @@
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\New folder\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+D:\vesrity project\project wiht html helper\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+C:\Users\Web App Develop.Net\Desktop\ppp\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+D:\vesrity project\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\New folder (3)\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\update 10\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\parimal roy\Desktop\update 10\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll.config
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\UniversityCourseAndResultApp.pdb
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Owin.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\WebGrease.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Helpers.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Mvc.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Optimization.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.Razor.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Newtonsoft.Json.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Antlr3.Runtime.pdb
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\EntityFramework.SqlServer.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.csprojResolveAssemblyReference.cache
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.dll
+C:\Users\parimal roy\Desktop\last final\update 10 ,8 with string\UniversityCourseAndResultApp\UniversityCourseAndResultApp\obj\Debug\UniversityCourseAndResultApp.pdb
